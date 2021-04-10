@@ -23,6 +23,5 @@ In Cockpit Setup
 CMDS Manual Mode with Program 1 selected
 
 
-104cdt_Aeons
+Aeons
 https://github.com/CptAeons/DCS-F-16C-Viper-Countermeasures-Profile
-www.104thphoenix.com
